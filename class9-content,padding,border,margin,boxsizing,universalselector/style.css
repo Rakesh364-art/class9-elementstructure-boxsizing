@@ -1,0 +1,62 @@
+ 
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+
+
+
+}
+img{
+
+
+
+    display: inline-block;
+    width: 300px;
+    background-color: aliceblue;
+    border: 10px dotted blueviolet;
+    margin: 10px;
+
+}
+ 
+
+
+
+
+#heading{
+text-align: center;
+font-size: 3rem;
+background-color:red;
+border: 10px solid gray;
+border-radius: 10px;
+
+
+
+}
+#ramcharan{
+border: 10px dashed goldenrod;
+
+
+}
+#raviteja{
+    border: 10px groove brown;
+}
+#prabas{
+    border: 10px ridge purple;
+}
+#paawan{
+    border: 10px inset pink;
+}
+#ntr{
+    border: 10px outset green;
+}
+#nithin{
+border: 10px double violet;
+
+}
+#chiranjevi{
+    border: 10px solid yellow;
+}
+
+
